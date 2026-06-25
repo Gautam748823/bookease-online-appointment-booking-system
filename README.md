@@ -21,6 +21,15 @@ A modern full-stack appointment booking platform built with React, Node.js, Expr
 <img width="1555" height="930" alt="image" src="https://github.com/user-attachments/assets/ae752299-ea22-4154-8b12-77d5b47adc7c" />
 
 
+# 🌐 Live Demo
+
+Frontend
+
+https://bookease-online-appointment-booking.vercel.app/
+
+Backend API
+
+https://bookease-backend-3hxz.onrender.com/
 
 ## Folder Structure
 ```text
