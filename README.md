@@ -1,5 +1,5 @@
 
-<h1 align="center">📅 BookEase</h1>
+<h1 align="center"> BookEase</h1>
 
 <h3 align="center">
 Smart Online Appointment Booking System
@@ -25,29 +25,24 @@ A modern Full-Stack Appointment Booking System built using React, Node.js, Expre
 
 # 📷 Project Preview
 
-<p align="center">
-<img src="docs/home.png" width="90%">
-</p>
+<img width="1571" height="923" alt="image" src="https://github.com/user-attachments/assets/588c74a1-ab06-4712-8de8-492bd73aac0f" />
 
-<p align="center">
-<img src="docs/services.png" width="90%">
-</p>
 
 ---
 
-# 🌐 Live Demo
+#  Live Demo
 
-### 🚀 Frontend
+###  Frontend
 
 https://bookease-online-appointment-booking.vercel.app/
 
-### ⚙ Backend API
+###  Backend API
 
 https://bookease-backend-3hxz.onrender.com/
 
 ---
 
-# 📑 Table of Contents
+#  Table of Contents
 
 - Features
 - Tech Stack
@@ -59,7 +54,7 @@ https://bookease-backend-3hxz.onrender.com/
 
 ---
 
-# ✨ Features
+#  Features
 
 - 📅 Online Appointment Booking
 - ⏰ Dynamic Time Slot Management
@@ -72,7 +67,7 @@ https://bookease-backend-3hxz.onrender.com/
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -87,7 +82,7 @@ https://bookease-backend-3hxz.onrender.com/
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 BookEase/
@@ -118,7 +113,7 @@ BookEase/
 
 ---
 
-# ⚙ Installation
+#  Installation
 
 Clone the repository
 
@@ -162,7 +157,7 @@ npm run dev
 
 ---
 
-# 🔌 REST API Endpoints
+#  REST API Endpoints
 
 | Method | Endpoint                            | Description          |
 | ------ | ----------------------------------- | -------------------- |
@@ -174,7 +169,7 @@ npm run dev
 
 ---
 
-# 🚀 Future Scope
+#  Future Scope
 
 * Google Authentication
 * OTP Verification
@@ -189,7 +184,7 @@ npm run dev
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Gautam Kumar**
 
@@ -203,13 +198,13 @@ BookEase – Smart Online Appointment Booking System
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the **MIT License**.
 
