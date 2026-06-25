@@ -31,22 +31,34 @@ Backend API
 
 https://bookease-backend-3hxz.onrender.com/
 
-📂 Project Structure
+## 📂 Project Structure
+
+```text
 BookEase/
-│
 ├── backend/
 │   ├── config/
 │   ├── controllers/
+│   ├── database/
 │   ├── routes/
+│   ├── .env.example
+│   ├── package.json
 │   └── server.js
 │
 ├── frontend/
-│   ├── src/
 │   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── styles/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
 │   └── vite.config.js
 │
 ├── docs/
+├── .gitignore
 └── README.md
+```
 
 ## ✨ Features
 
@@ -59,17 +71,61 @@ BookEase/
 - ⚡ REST API Architecture
 - ☁️ Cloud Deployment
 
-🛠 Tech Stack
-Category	        Technology
+## 🛠️ Tech Stack
 
-Frontend	        React, Vite, Axios, React Router
-Backend	          Node.js, Express.js
-Database	        Supabase (PostgreSQL)
-Deployment	      Vercel, Render
-Version Control	  Git & GitHub
+| Category | Technology |
+|-----------|------------|
+| **Frontend** | React.js, Vite, React Router DOM, Axios |
+| **Backend** | Node.js, Express.js |
+| **Database** | Supabase (PostgreSQL) |
+| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **Version Control** | Git, GitHub |
+| **API Testing** | Postman |
+| **Language** | JavaScript (ES6+) |
+| **Styling** | CSS3 |
 
-## Getting Started
-To get started:
-1. Clone the repository.
-2. Navigate to the backend directory (`cd backend`), install dependencies, and run with `npm run dev`.
-3. Navigate to the frontend directory (`cd frontend`), install dependencies, and run with `npm run dev`.
+⚙️ Installation
+git clone https://github.com/Gautam748823/bookease-online-appointment-booking-system.git
+
+cd bookease-online-appointment-booking-system
+
+cd backend
+npm install
+
+cd ../frontend
+npm install
+
+🚀 Run Locally
+# Backend
+
+cd backend
+
+npm run dev
+
+# Frontend
+
+cd frontend
+
+npm run dev
+
+📖 API Endpoints
+GET    /api/appointments
+
+POST   /api/appointments
+
+GET    /api/appointments/available-slots
+
+PUT    /api/appointments/:id
+
+DELETE /api/appointments/:id
+
+👨‍💻 Author
+## 👨‍💻 Author
+
+Gautam Kumar
+
+GitHub:
+https://github.com/Gautam748823
+
+Project:
+BookEase – Smart Online Appointment Booking System
