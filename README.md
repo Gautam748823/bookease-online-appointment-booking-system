@@ -1,11 +1,6 @@
-# BookEase – Smart Online Appointment Booking System
+# 🚀 BookEase – Smart Online Appointment Booking System
 
-## Tech Stack
-* Frontend: React (Vite), React Router DOM, Axios
-* Backend: Node.js, Express.js
-* Database: Supabase (PostgreSQL)
-* Deployment: Frontend -> Vercel, Backend -> Render
-* Version Control: Git + GitHub
+A modern full-stack appointment booking platform built with React, Node.js, Express.js, and Supabase, enabling users to book appointments online with dynamic time-slot management and an admin dashboard.
 
 ## Folder Structure
 ```text
