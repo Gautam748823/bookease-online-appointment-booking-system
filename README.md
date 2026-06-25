@@ -1,4 +1,4 @@
-# 🚀 BookEase – Smart Online Appointment Booking System
+#  BookEase – Smart Online Appointment Booking System
 
 A modern full-stack appointment booking platform built with React, Node.js, Express.js, and Supabase, enabling users to book appointments online with dynamic time-slot management and an admin dashboard.
 
@@ -21,7 +21,7 @@ A modern full-stack appointment booking platform built with React, Node.js, Expr
 <img width="1555" height="930" alt="image" src="https://github.com/user-attachments/assets/ae752299-ea22-4154-8b12-77d5b47adc7c" />
 
 
-# 🌐 Live Demo
+#  Live Demo
 
 Frontend
 
@@ -31,7 +31,7 @@ Backend API
 
 https://bookease-backend-3hxz.onrender.com/
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 BookEase/
@@ -60,7 +60,7 @@ BookEase/
 └── README.md
 ```
 
-## ✨ Features
+##  Features
 
 - 📅 Online Appointment Booking
 - ⏰ Dynamic Time Slot Management
@@ -71,7 +71,7 @@ BookEase/
 - ⚡ REST API Architecture
 - ☁️ Cloud Deployment
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -84,7 +84,7 @@ BookEase/
 | **Language** | JavaScript (ES6+) |
 | **Styling** | CSS3 |
 
-⚙️ Installation
+ Installation
 git clone https://github.com/Gautam748823/bookease-online-appointment-booking-system.git
 
 cd bookease-online-appointment-booking-system
@@ -95,7 +95,7 @@ npm install
 cd ../frontend
 npm install
 
-🚀 Run Locally
+ Run Locally
 # Backend
 
 cd backend
@@ -108,7 +108,7 @@ cd frontend
 
 npm run dev
 
-📖 API Endpoints
+ API Endpoints
 GET    /api/appointments
 
 POST   /api/appointments
@@ -120,7 +120,7 @@ PUT    /api/appointments/:id
 DELETE /api/appointments/:id
 
 
-## 👨‍💻 Author
+##  Author
 
 Gautam Kumar
 
