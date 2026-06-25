@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">📅 BookEase</h1>
 
 <h3 align="center">
@@ -21,7 +21,7 @@ A modern Full-Stack Appointment Booking System built using React, Node.js, Expre
 
 </p>
 
----
+
 
 # 📷 Project Preview
 
