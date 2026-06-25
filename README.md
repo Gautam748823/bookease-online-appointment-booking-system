@@ -16,7 +16,7 @@ A modern full-stack appointment booking platform built with React, Node.js, Expr
 
 ## 📷 Project Preview
 
-![BookEase](docs/images/homepage.png)
+
 <img width="1517" height="927" alt="image" src="https://github.com/user-attachments/assets/faecd261-67e6-4cce-8c6b-0b27ec8be95d" />
 <img width="1555" height="930" alt="image" src="https://github.com/user-attachments/assets/ae752299-ea22-4154-8b12-77d5b47adc7c" />
 
