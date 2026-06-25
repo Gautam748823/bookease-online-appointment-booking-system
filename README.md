@@ -119,7 +119,7 @@ PUT    /api/appointments/:id
 
 DELETE /api/appointments/:id
 
-👨‍💻 Author
+
 ## 👨‍💻 Author
 
 Gautam Kumar
