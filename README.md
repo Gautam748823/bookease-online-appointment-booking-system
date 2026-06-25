@@ -31,14 +31,22 @@ Backend API
 
 https://bookease-backend-3hxz.onrender.com/
 
-## Folder Structure
-```text
-bookease/
+📂 Project Structure
+BookEase/
+│
 ├── backend/
-├── docs/
+│   ├── config/
+│   ├── controllers/
+│   ├── routes/
+│   └── server.js
+│
 ├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── vite.config.js
+│
+├── docs/
 └── README.md
-```
 
 ## ✨ Features
 
@@ -52,15 +60,13 @@ bookease/
 - ☁️ Cloud Deployment
 
 🛠 Tech Stack
+Category	        Technology
 
-Instead of a list:
-
-Category	Technology
-Frontend	React, Vite, Axios, React Router
-Backend	Node.js, Express.js
-Database	Supabase (PostgreSQL)
-Deployment	Vercel, Render
-Version Control	Git & GitHub
+Frontend	        React, Vite, Axios, React Router
+Backend	          Node.js, Express.js
+Database	        Supabase (PostgreSQL)
+Deployment	      Vercel, Render
+Version Control	  Git & GitHub
 
 ## Getting Started
 To get started:
