@@ -139,7 +139,7 @@ npm install
 
 ---
 
-# ▶ Run Locally
+#  Run Locally
 
 ### Backend
 
