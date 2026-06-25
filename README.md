@@ -40,6 +40,28 @@ bookease/
 └── README.md
 ```
 
+## ✨ Features
+
+- 📅 Online Appointment Booking
+- ⏰ Dynamic Time Slot Management
+- 👨‍⚕️ Multiple Healthcare Services
+- 🔒 Admin Authentication
+- 📊 Appointment Dashboard
+- 📱 Fully Responsive UI
+- ⚡ REST API Architecture
+- ☁️ Cloud Deployment
+
+🛠 Tech Stack
+
+Instead of a list:
+
+Category	Technology
+Frontend	React, Vite, Axios, React Router
+Backend	Node.js, Express.js
+Database	Supabase (PostgreSQL)
+Deployment	Vercel, Render
+Version Control	Git & GitHub
+
 ## Getting Started
 To get started:
 1. Clone the repository.
